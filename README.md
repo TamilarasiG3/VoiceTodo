@@ -95,13 +95,6 @@ http://localhost:3000
 
 ---
 
-## 👨‍💻 Author
-
-**Your Name**
-GitHub: https://github.com/your-username
-
----
-
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
